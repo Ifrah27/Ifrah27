@@ -2,12 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a371f7,100:19d1ff&height=120&section=header&text=&fontSize=0" />
 
-```text
-┌───────────────────────────────────────────────┐
-│   Ifrah · Data Scientist & ML Engineer        │
-│   Turning raw data into actionable insights   │
-└───────────────────────────────────────────────┘
-```
+<p align="center">
+  <code>┌───────────────────────────────────────────────┐</code><br>
+  <code>│   Ifrah · Data Scientist & ML Engineer        │</code><br>
+  <code>│   Turning raw data into actionable insights   │</code><br>
+  <code>└───────────────────────────────────────────────┘</code>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=19D1FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A7%A0;Deep+Learning+Enthusiast+%F0%9F%9A%80;Python+%2B+SQL+%2B+PyTorch;Building+AI+solutions+%E2%9C%A8" />
 
